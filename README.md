@@ -37,14 +37,16 @@ Computers1 is an e-commerce website project focused on bringing the world of com
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/MohamedSedeek22/Computers1.git
+## Install the necessary dependencies:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/MohamedSedeek22/Computers1.git
 # Navigate to the project directory
 cd Computers1
 
 # Install dependencies using a package manager (e.g., npm or yarn)
 npm install
-
-2. **Start the development server:
-#npm start
 
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
